@@ -1,0 +1,20 @@
+p{
+    font-family: Arial;
+    text-align: center;
+  }
+
+  .titulo-divisao{
+    color: #fd7e14;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.2rem;
+    line-height: 4rem;
+  }
+  
+  .btn-cadastro{
+    color: #fd7e14;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    
+  }
